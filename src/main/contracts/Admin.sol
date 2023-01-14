@@ -5,7 +5,7 @@ import "./SingletonVoter.sol";
 import "./AclManager.sol";
 import "./IAuthControl.sol";
 
-contract WEAdmin{
+contract Admin{
 
     address private _admin;
 
