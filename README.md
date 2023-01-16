@@ -21,8 +21,7 @@
 * 【治理方】配置HelloWorld的权限
 * 【业务方】权限验证
 
-![contents](doc/image/智能合约权限组件原理.jpg)
-
+![avator](doc/image/principle.jpg)
 
 ## 合约下载
 >通过git下载源码，获取智能合约:
