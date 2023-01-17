@@ -37,7 +37,7 @@ git clone git@github.com:AlleriaWindrunner/contracts-authority-management.git
 deploy AuthManager 1 [] [] 0
 ```
 
->AuthManager是权限治理合约。部署的时候可传入一组与运行模式有关的参数，按上面填写即可。部署成功后，会返回”contract address”字样和权限合约地址。部署后，仅有治理员身份可以操作该权限合约。
+>AuthManager是权限治理合约。部署的时候可传入一组与运行模式有关的参数，按上面填写即可。部署成功后，会返回”contract address”字样和权限合约地址。
 
 ## 部署HelloWorld合约
 >在治理方部署了权限治理合约后，业务方现在需要将权限治理合约引入自己的智能合约。
